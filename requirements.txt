@@ -1,0 +1,5 @@
+torch
+torchvision
+flask
+openvino-dev
+Pillow==6.2.2
